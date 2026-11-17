@@ -1,0 +1,7 @@
+La Mona Lisa;Pintura
+El Pensador;Escultura
+Noche Estrellada;Pintura
+La Gran Ola;Pintura
+Retrato de Luz;Fotografia
+David;Escultura
+Paisaje Natural;Fotografia
