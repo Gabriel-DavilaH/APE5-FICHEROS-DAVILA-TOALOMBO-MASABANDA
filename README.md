@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Segunda parte | Programación en Java
+### | Programación en Java
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![File Handling](https://img.shields.io/badge/File_Handling-2C3E50?style=for-the-badge)
