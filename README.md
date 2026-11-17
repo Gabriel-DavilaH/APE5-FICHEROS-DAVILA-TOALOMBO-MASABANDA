@@ -122,9 +122,9 @@ git clone URL_DEL_REPOSITORIO
 
 | # | Integrante |
 |:-:|:---|
-| 01 | **Toalombo Punina Jeremy Patricio** — Programador. |
-| 02 | **Dávila Hernández Gabriel Marcelo** — Analista. |
-| 03 | **Masabanda Chasiluisa Jeremy Isaac** — Documentación y pruebas. |
+| 01 | **Toalombo Punina Jeremy Patricio**  |
+| 02 | **Dávila Hernández Gabriel Marcelo**  |
+| 03 | **Masabanda Chasiluisa Jeremy Isaac** |
 
 ---
 
