@@ -1,0 +1,5 @@
+Sofia,85
+Mateo,72
+Daniel,95
+Valentina,68
+Andres,80
