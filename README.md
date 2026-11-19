@@ -42,54 +42,6 @@ Desarrollar programas en Java que permitan gestionar información mediante archi
 | `append` | Agregar información sin sobrescribir |
 
 
-## 📂 Estructura del repositorio
-
-```text
-Manejo-Archivos-Java/
-│
-├── Ejercicio01/
-│   ├── pistas.txt
-│   └── Main.java
-│
-├── Ejercicio02/
-│   ├── mensaje.txt
-│   └── Main.java
-│
-├── Ejercicio03/
-│   ├── obras.txt
-│   └── Main.java
-│
-├── Ejercicio04/
-│   ├── resultados.txt
-│   └── Main.java
-│
-├── Ejercicio05/
-│   ├── libros.txt
-│   └── Main.java
-│
-├── Ejercicio06/
-│   ├── secreto.txt
-│   └── Main.java
-│
-├── Ejercicio07/
-│   ├── jugadores.txt
-│   └── Main.java
-│
-├── Ejercicio08/
-│   ├── temperaturas.txt
-│   └── Main.java
-│
-├── Ejercicio09/
-│   ├── descubrimientos.txt
-│   └── Main.java
-│
-├── Ejercicio10/
-│   ├── ventas.txt
-│   └── Main.java
-│
-└── README.md
-```
-
 *La estructura es una propuesta de organización para los archivos fuente y sus respectivos archivos de datos.*
 
 ## ⚙️ Requisitos para ejecutar los programas
